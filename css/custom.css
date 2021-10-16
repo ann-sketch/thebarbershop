@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.header-section {
+    padding: 30px 0;
+}
+
+.appointment_form {
+    padding: 0 30px;
+}
+
+.appointment_form .book_content {
+    margin-bottom: 0;
+}
